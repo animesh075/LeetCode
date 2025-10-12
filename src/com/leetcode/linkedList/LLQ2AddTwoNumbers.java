@@ -1,6 +1,6 @@
 package com.leetcode.linkedList;
 
-public class LLQ22AddTwoNumbers {
+public class LLQ2AddTwoNumbers {
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode temp = new ListNode(0);
